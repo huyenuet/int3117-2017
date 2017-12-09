@@ -19,9 +19,13 @@
 ### 2. Bài tập ISTQB
 -	Đạt được chứng chỉ của ISTQB hoàn thành khóa học trực tuyến kiểm thử phần mềm mức cơ bản.
 Ảnh chụp chứng chỉ:
+
   [Trần Thị Thanh Huyền.png](https://github.com/truonganhhoang/int3117-2017/blob/master/istqb/TranThiThanhHuyen.png)
+  
   [Nguyễn Thị Lan.jpg](https://github.com/truonganhhoang/int3117-2017/blob/master/istqb/NguyenThiLan.png)
+  
   [Nguyễn Văn Nhật.jpg](https://github.com/truonganhhoang/int3117-2017/blob/master/istqb/NguyenVanNhat.png)
+  
 - Hoàn thành nhập câu hỏi trắc nghiệm vào bảng ([Q3 - BUG](https://docs.google.com/spreadsheets/d/1SRUjhmj-8TLGdvhBpk_-BBZETcQx-8is1PxWL171Wd0/edit#gid=1158584517)).
 
 ### 3. Bài tập kiểm thử Cypress ([Code](https://github.com/truonganhhoang/int3117-2017/tree/4bcb5e7bfafc60954c92301d2ca7859b0d084246/BUG))
