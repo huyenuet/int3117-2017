@@ -19,8 +19,9 @@
 ### 2. Bài tập ISTQB
 -	Đạt được chứng chỉ của ISTQB hoàn thành khóa học trực tuyến kiểm thử phần mềm mức cơ bản.
 
-### 3. Bài tập kiểm thử Cypress ([Link ca kiểm thử](https://docs.google.com/spreadsheets/d/11RIgqDllbbqXd2xu8N1NyJkfWAnSRIqAox3P2OZD4DQ/edit#gid=726209424))
-Tổng cộng: 15 ca kiểm thử (54 kịch bản kiểm thử)
+### 3. Bài tập kiểm thử Cypress ([Code](https://github.com/truonganhhoang/int3117-2017/tree/4bcb5e7bfafc60954c92301d2ca7859b0d084246/BUG))
+
+Tổng cộng: 15 ca kiểm thử (54 kịch bản kiểm thử)([Link ca kiểm thử](https://docs.google.com/spreadsheets/d/11RIgqDllbbqXd2xu8N1NyJkfWAnSRIqAox3P2OZD4DQ/edit#gid=726209424))
 - Nguyễn Văn Nhật viết các ca kiểm thử: CommonTC_G_24, 25 (21 kịch bản)
 - Nguyễn Thị Lan viết các ca kiểm thử: CommonTC_G_27, 38; THEMMOI_BN_14, 15, 16, 17, 18 (17 kịch bản)
 - Trần Thị Thanh Huyền viết các ca kiểm thử cho các chức năng: CommonTC_G_26, 39; THEMMOI_BN_121, 122, 123, 124 (16 kịch bản)
